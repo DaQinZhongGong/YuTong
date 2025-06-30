@@ -1,0 +1,4 @@
+
+Application Version: ${yutongvuefast.version}
+Spring Boot Version: ${spring-boot.version}
+
